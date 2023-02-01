@@ -1,4 +1,3 @@
-# Climate Change, Biodiversity Loss, Pollution and related Risk Management
 # Overview
 
 # Climate Change
@@ -8,5 +7,4 @@
 # Pollution
 
 # Upcoming events
-# Maintenance notes
-# Change Logs
+# Maintenance, Change Logs
